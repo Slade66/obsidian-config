@@ -2,5 +2,6 @@
   "livePreview": false,
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "附件"
 }
